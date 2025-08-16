@@ -1,6 +1,6 @@
 # Storybook UI Components (React + TypeScript + Tailwind + Storybook)
 
-This repository contains two reusable UI components for the assignment:
+This repository contains two reusable UI components:
 - **InputField**: states (disabled, invalid, loading), variants (filled, outlined, ghost), sizes (sm, md, lg), clear button, password toggle, helper & error messages, light/dark support.
 - **DataTable**: tabular display, sorting, row selection (multi), loading & empty states.
 
