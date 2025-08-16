@@ -62,7 +62,7 @@ import { DataTable } from './src/components/data-table/DataTable'
 Tailwind dark mode is class-based. Wrap Storybook or App with `<html class="dark">` for dark mode.
 
 ## Scripts
-- `npm run dev` — Vite dev server
-- `npm run storybook` — Storybook dev
-- `npm run build` — production build of app
-- `npm run build-storybook` — static Storybook
+- `npm run dev` - Vite dev server
+- `npm run storybook` - Storybook dev
+- `npm run build` - production build of app
+- `npm run build-storybook` - static Storybook
