@@ -48,9 +48,6 @@ import { DataTable } from './src/components/data-table/DataTable'
      npx chromatic --project-token=<token>
      ```
   4. Or create a GitHub Action that builds Storybook on each push.
-- **Vercel (alternative)**:
-  1. Run `npm run build-storybook` to output static storybook to `storybook-static/`.
-  2. Import your repo in Vercel and set the build output directory to `storybook-static`.
 
 ## Accessibility Notes
 - Inputs associate `<label>` with the input `id`.
