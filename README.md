@@ -48,6 +48,8 @@ import { DataTable } from './src/components/data-table/DataTable'
      npx chromatic --project-token=<token>
      ```
   4. Or create a GitHub Action that builds Storybook on each push.
+ 
+  👉 [View the Live Storybook](https://68a0044e87addbe3203ba772-yrayvddzzl.chromatic.com/)
 
 ## Accessibility Notes
 - Inputs associate `<label>` with the input `id`.
