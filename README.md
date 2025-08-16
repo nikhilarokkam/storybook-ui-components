@@ -1,4 +1,4 @@
-# Internshala Components (React + TypeScript + Tailwind + Storybook)
+# Storybook UI Components (React + TypeScript + Tailwind + Storybook)
 
 This repository contains two reusable UI components for the assignment:
 - **InputField**: states (disabled, invalid, loading), variants (filled, outlined, ghost), sizes (sm, md, lg), clear button, password toggle, helper & error messages, light/dark support.
