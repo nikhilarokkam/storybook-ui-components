@@ -35,7 +35,7 @@ import { DataTable } from './src/components/data-table/DataTable'
   ```bash
   git init
   git add -A
-  git commit -m "feat: initial assignment"
+  git commit -m "feat: storybook ui components"
   git branch -M main
   git remote add origin <YOUR_REPO_URL>
   git push -u origin main
